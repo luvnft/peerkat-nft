@@ -19,7 +19,7 @@ export default defineConfig({
     // VitePWA({}),
     injectHtml({
       data: {
-        title: "Peerkat",
+        title: "XRPSHARE",
         injectScript: remoteScript,
       },
     }),

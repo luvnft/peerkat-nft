@@ -205,7 +205,7 @@
                 connect to, for more information.
               </li>
               <li class="pb-2">
-                Return to Xumm home, open the Peerkat xApp to view the NFT in
+                Return to Xumm home, open the XRPSHARE xApp to view the NFT in
                 {{ nodetypefromlink }}
               </li>
             </ul>
@@ -226,7 +226,7 @@
                 and select a Node listed in the “{{ nodetypefromlink }}” section
               </li>
               <li class="pb-2">
-                Return to Xumm home, open the Peerkat xApp to view the NFT in
+                Return to Xumm home, open the XRPSHARE xApp to view the NFT in
                 {{ nodetypefromlink }}
               </li>
             </ul>
@@ -234,7 +234,7 @@
         </div>
         <div v-if="!nodetypefromlink">
           <h5 class="text-center mt-2">
-            Peerkat is not able to find an NFT from the link that you have
+            XRPSHARE is not able to find an NFT from the link that you have
             followed.
           </h5>
           <ul class="mt-2 p-2">

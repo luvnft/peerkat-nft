@@ -1,7 +1,7 @@
 const xummSandbox = import.meta.env.VITE_XUMM_SANBDOX;
 
 if (!isInXumm && xummSandbox === "main") {
-  window.location.replace("https://www.peerkat.io/");
+  window.location.replace("https://xrpshare.luvnft.com/");
 }
 
 import { createApp } from "vue";

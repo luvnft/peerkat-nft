@@ -39,7 +39,7 @@
           "
         >
           <p>
-            Peerkat is not able to find any sell offers, created by this wallet
+            XRPSHARE is not able to find any sell offers, created by this wallet
             for this NFT
           </p>
         </div>
@@ -64,7 +64,7 @@
           v-if="!nft.buyoffers || (nft.buyoffers && nft.buyoffers.length == 0)"
         >
           <p>
-            Peerkat is not able to find any buy offers, shared with this wallet
+            XRPSHARE is not able to find any buy offers, shared with this wallet
             for this NFT
           </p>
         </div>

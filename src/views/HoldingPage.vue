@@ -8,7 +8,7 @@
         class="d-inline-block align-top rounded-circle mb-4"
       />
       <p class="lead mb-4 bold">
-        Peerkat xApp is under construction, please bear with us and check back
+        PeerXRPSHAREkat xApp is under construction, please bear with us and check back
         later
       </p>
       <span style="width: 36px" class="d-inline-block w-10">

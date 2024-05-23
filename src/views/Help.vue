@@ -68,17 +68,17 @@
       <nav class="d-flex justify-content-center mb-4">
         <external-link
           class="mr-2 btn btn-primary btn-sm"
-          :url="`https://twitter.com/PeerkatOfficial`"
+          :url="`https://twitter.com/luvnft`"
           >@PeerkatOfficial</external-link
         >
         <external-link
           class="mr-2 btn btn-primary btn-sm"
-          :url="`https://discord.com/invite/mAHEN8kCdr`"
+          :url="`https://discord.gg/d2s2EZYVdE`"
           >Discord
         </external-link>
         <external-link
           class="mr-2 btn btn-primary btn-sm"
-          :url="`https://peerkat.com/privacy`"
+          :url="`https://xrpshare.luvnft.com/privacy`"
           >Privacy notice</external-link
         >
       </nav>
@@ -87,8 +87,8 @@
         <p>
           The contents of our websites (including subdomains of our websites)
           and applications through which we make our products/services available
-          including, for example our Peerkat NFT viewer application via Xumm and
-          Peerkat Web3 API, (together, the “Platform”) is provided for general
+          including, for example our XRPSHARE NFT viewer application via Xumm and
+          XRPSHARE Web3 API, (together, the “Platform”) is provided for general
           information only. It is not intended to amount to advice on which you
           should rely. You must obtain professional or specialist advice before
           taking, or refraining from, any action on the basis of the content on
@@ -107,8 +107,8 @@
         </p>
       </div>
       <div class="mt-4 pb-2 text-center">
-        <p>© Peerkat 2020-2023</p>
-        <p>Peerkat is a Vivid IoV Labs product</p>
+        <p>© LUV NFT XRPSHARE 2020-2025</p>
+        <p>XRPSHARE is a LUV NFT product</p>
         <p>
           Vivid IoV Labs, Innovation Labs, England, IP14 1RD.<br />
           Vivid IoV Labs Ltd is a company registered in England and Wales with

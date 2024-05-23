@@ -274,13 +274,13 @@ async function getOne(
           error_code = "no_nfts_in_collection";
           error_title = "XLS14/SOLO data currently unavailable [X03]";
           error_message =
-            "This error may occur when the viewer is currently unable to access the individual asset file associated with this NFT. Please contact the Token Issuer and/or Sologenic for support. We will continue to upgrade the viewer, follow Peerkat via Twitter and Discord for updates and support.";
+            "This error may occur when the viewer is currently unable to access the individual asset file associated with this NFT. Please contact the Token Issuer and/or Sologenic for support. We will continue to upgrade the viewer, follow XRPSHARE via Twitter and Discord for updates and support.";
         }
       } catch (error: any) {
         error_code = "no_nfts_in_collection";
         error_title = "XLS14/SOLO data currently unavailable [X05]";
         error_message =
-          "This error may occur when the viewer is currently unable to access the asset file associated with this NFT. We will continue to upgrade the viewer, follow Peerkat via Twitter and Discord for updates and support.";
+          "This error may occur when the viewer is currently unable to access the asset file associated with this NFT. We will continue to upgrade the viewer, follow XRPSHARE via Twitter and Discord for updates and support.";
         await geXls14();
       }
     } else if (
@@ -320,7 +320,7 @@ async function getOne(
     error_code = "no_nfts_in_collection";
     error_title = "XLS14/16 data currently unavailable [X04]";
     error_message =
-      "This error may occur when the viewer is currently unable to access the URI for the asset file associated with this NFT. Please contact the Token Issuer for support. We will continue to upgrade the viewer, follow Peerkat via Twitter and Discord for updates and support.";
+      "This error may occur when the viewer is currently unable to access the URI for the asset file associated with this NFT. Please contact the Token Issuer for support. We will continue to upgrade the viewer, follow XRPSHARE via Twitter and Discord for updates and support.";
   }
 
   return {
@@ -723,7 +723,7 @@ export async function getOneXls20(nft: any, nodetype: string): Promise<any> {
         error_code = "no_nfts_in_collection";
         error_title = "Data currently unavailable  [X02]";
         error_message =
-          "This error may occur when the viewer is currently unable to fetch metadata from the URI. This error occurs when the viewer is not familiar with the URI approach. Please contact the Token Issuer for support. We will continue to upgrade the viewer, follow Peerkat via Twitter and Discord for updates and support.";
+          "This error may occur when the viewer is currently unable to fetch metadata from the URI. This error occurs when the viewer is not familiar with the URI approach. Please contact the Token Issuer for support. We will continue to upgrade the viewer, follow XRPSHARE via Twitter and Discord for updates and support.";
       }
     } else {
       const t = await logFailedToLoad({
@@ -777,7 +777,7 @@ export async function getOneXls20(nft: any, nodetype: string): Promise<any> {
         error_code = "no_nfts_in_collection";
         error_title = "Data currently unavailable  [X01]";
         error_message =
-          "This error may occur when the viewer attempts to fetch metadata from the URI and the network request times out. This error occurs most frequently when using a public IPFS link. Please try again by quitting the xApp and reload. We will continue to upgrade the viewer, follow Peerkat via Twitter and Discord for updates and support.";
+          "This error may occur when the viewer attempts to fetch metadata from the URI and the network request times out. This error occurs most frequently when using a public IPFS link. Please try again by quitting the xApp and reload. We will continue to upgrade the viewer, follow XRPSHARE via Twitter and Discord for updates and support.";
       }
     }
   }

@@ -30,4 +30,4 @@ A [Vue 3](https://v3.vuejs.org/) + [Typescript](https://www.typescriptlang.org/)
 
 ### Feedback
 
-For any feedback/queries please email [support@peerkat.com](mailto:support@peerkat.com)
+For any feedback/queries please email [info@luvnft.com](mailto:info@luvnft.com)

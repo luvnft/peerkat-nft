@@ -42,7 +42,7 @@
         style="flex: 1; align-items: center; margin-top: 13%"
       >
         <h5 class="text-center mt-2">
-          Peerkat is not able to find any NFTs in this wallet
+          XRPSHARE is not able to find any NFTs in this wallet
         </h5>
         <ul class="mt-2">
           <li class="pb-2">
